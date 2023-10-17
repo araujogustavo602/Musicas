@@ -1,0 +1,84 @@
+
+html{
+    margin: 0% ;
+    padding: 0%;
+}
+.navbar-brand {
+display: flex;
+    font-family: Julius Sans One;
+
+    font-size: 32px;
+
+    font-weight: 400;
+
+    margin-left: 18px;
+
+ background-color: #1c1c1d;
+
+    color: #FFF;
+
+}
+.navbar{
+    display: flex;
+    background: linear-gradient(0deg, #1c1c1d, #1c1c1d),
+   linear-gradient(0deg, rgba(108, 122, 245, 0.6), rgba(108, 122, 245, 0.6));
+  
+}
+   
+   .navbar-brand {
+display: flex;
+    font-family: Julius Sans One;
+
+    font-size: 32px;
+
+    font-weight: 400;
+
+    margin-left: 18px;
+
+ 
+
+    color: #FFF;
+
+}
+article {
+display: flex;
+    height: 200px; 
+    width:  200px;
+}
+button{
+    white-space: normal;
+    text-align: left;
+    display: flex;
+}
+form{
+display:contents;
+
+}
+
+  
+    body{
+        background-color: #1c1c1d;
+       
+    }
+    label{
+ color: #FFF;   
+    }
+    
+    input{
+        border-radius: 5px;
+    }
+    
+   @media (min-width: 1280px) {
+       .gustavo
+       .article{
+           width: 100%;
+           flex-direction: column;
+       }
+       #botao-hamburguer {
+        display: none;
+    }
+}
+.banner{
+    width: 150%;
+    height: 150px;
+}
